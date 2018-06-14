@@ -1,0 +1,7 @@
+jq
+*.zip
+*.xml
+*.iml
+*.pyc
+.idea
+.idea/*
